@@ -1,4 +1,18 @@
 package Arrays;
+/*
+ *  import  java.util.ArrayList;
+ * ArrayList<Integer> list = new ArrayList(n);
+ * list.add(0);
+ * list.add(1);
+ * list.add(2);
+ * list.remove(index or value);
+ * list.indexOf(2);
+ * list.contains(10 );
+ * list.size();
+ * list.toArray(); 
+ * 
+
+ */
 public class Array {
    private int[] numbers ;
    private int size = 0;
